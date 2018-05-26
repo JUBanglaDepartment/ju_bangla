@@ -1,0 +1,14 @@
+username:a
+password:a
+
+username:t1
+password:t1
+
+username:a
+password:a
+
+
+DB
+
+user:root
+pass:

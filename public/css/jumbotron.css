@@ -1,0 +1,19 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.profile-pic{
+    display: block;
+    margin: 0 auto;
+}
+p {
+    margin-top: 20px;
+}
+.row {
+    margin-bottom: 50px;
+}
+.col-md-4 {
+    margin: 20px 0;
+}
